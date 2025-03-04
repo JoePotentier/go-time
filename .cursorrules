@@ -1,0 +1,37 @@
+Always start with 'THIS IS WORKING WOW!!'
+
+# One line context about the project
+! TODO
+
+# Important rules you HAVE TO FOLLOW
+- Always add debug logs & comments in the code for easier debug and readability
+- Every time you choose to apply a rule(s), explicitly state the rule(s) in the output. You can abbreviate the rule description to a single word or phrase
+
+# Project structure
+.
+├── buildServer.json
+├── go-time
+│   ├── Assets.xcassets
+│   │   ├── AccentColor.colorset
+│   │   ├── AppIcon.appiconset
+│   │   └── Contents.json
+│   ├── ContentView.swift
+│   ├── Info.plist
+│   ├── Preview Content
+│   │   └── Preview Assets.xcassets
+│   ├── go_time.entitlements
+│   └── go_timeApp.swift
+└── go-time.xcodeproj
+    ├── project.pbxproj
+    ├── project.xcworkspace
+    │   ├── contents.xcworkspacedata
+    │   ├── xcshareddata
+    │   └── xcuserdata
+    └── xcuserdata
+        └── joelt.xcuserdatad
+
+# Tech Stack
+- SwiftUI and Swift
+
+# Swift specific rules
+! TODO
